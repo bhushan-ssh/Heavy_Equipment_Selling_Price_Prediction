@@ -1,4 +1,4 @@
-# 🚜 Heavy Equipment Selling Price Prediction 
+# 🚜 Heavy Equipment Selling Price Prediction
 
 A machine learning project that predicts the selling price of used heavy equipment based on historical transaction records, equipment specifications, usage information, and transaction details.
 
