@@ -1,6 +1,5 @@
 # 🚜 Heavy Equipment Selling Price Prediction
 
-
 A machine learning project that predicts the selling price of used heavy equipment based on historical transaction records, equipment specifications, usage information, and transaction details.
 
 The project focuses on building an accurate regression pipeline for predicting `TargetValue`, the selling price of equipment in USD. Since the competition is evaluated using **Root Mean Squared Logarithmic Error (RMSLE)**, the modelling process works primarily in log-price space.
